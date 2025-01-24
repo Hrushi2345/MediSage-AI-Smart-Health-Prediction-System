@@ -1,1 +1,1 @@
-### MediSage AI: Smart Health Prediction System
+# MediSage AI: Smart Health Prediction System
